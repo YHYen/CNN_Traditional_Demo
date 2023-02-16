@@ -1,0 +1,33 @@
+### Java template
+*.class
+
+# Moblie Tools for Java
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+
+# virtual machine crash logs
+hs_err_pid*
+
+.idea
+
+*.iml
+
+*.bak
+*.rar
+*.log
+.project
+.settings
+.classpath
+target
+classes
+lib
+*.DS_Store
+.gradle
+build
+out
+log
